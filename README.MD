@@ -84,7 +84,7 @@ kafka的java开发包，属于第三方包，需要添加依赖<br>
 基于maven的包依赖：<br>
 * 在IntelliJ中点击"Project Structure"->"Modules"->+"Library"->"NewLibrary"->"From Maven"->search "org.apache.kafka"
 * 等待搜索结果，然后确认。
-* 查看左侧项目浏览器中的External Libraries是否有org.apache.kafka:kafka_*.*:*，如果有表示添加成功。
+* 查看左侧项目浏览器中的External Libraries是否有org.apache.kafka:kafka_*.*，如果有表示添加成功。
 
 ## 2.2. org.json
 处理json字符串的包，属于第三方包，需要添加依赖，添加方法同kafka。
